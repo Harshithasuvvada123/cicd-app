@@ -3237,7 +3237,7 @@ img.u-pull-left {
     letter-spacing   : -0.015em;
     margin-top       : calc(var(--text-huge-size) / 2 * -1.2);
     margin-bottom    : var(--vspace-1_25);
-    color            : white;
+    color            : var(--color-text-dark);
 }
 
 /* --------------------------------------------------------------------
@@ -3247,7 +3247,7 @@ img.u-pull-left {
     aspect-ratio        : 1/1;
     width               : 100%;
     background-color    : var(--color-gray-4);
-    background-image    : url(../images/intro-bg.jpg);
+    background-image    : url(../images/intro-bg1.jpg);
     background-repeat   : no-repeat;
     background-position : center;
     background-size     : cover;
